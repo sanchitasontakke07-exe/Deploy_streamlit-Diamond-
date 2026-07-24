@@ -170,7 +170,7 @@ The application displays the predicted diamond price based on the values entered
 
 ## Developed By
 
-**Name:** Your Name
+**Name:** Sanchita Sontakke
 
 **Course:** Artificial Intelligence and Machine Learning (AIML)
 
